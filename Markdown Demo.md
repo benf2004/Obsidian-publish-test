@@ -3,8 +3,7 @@ dg-publish: true
 ---
 Generated with ChatGPT
 
-Certainly! Below is a comprehensive demonstration of Markdown formatting, including headers of different sizes, LaTeX math wrapped in dollar signs, tables, code blocks, and more.
-
+Below is a comprehensive demonstration of Markdown formatting, including headers of different sizes, LaTeX math wrapped in dollar signs, tables, code blocks, and more.
 # Markdown Demo
 
 ## Headers
@@ -87,7 +86,6 @@ You can display code using triple backticks (\`\`\`) for code blocks:
 def hello_world():
     print("Hello, World!")
 ```
-
 ## Quotes
 
 You can create blockquotes using the `>` symbol:
